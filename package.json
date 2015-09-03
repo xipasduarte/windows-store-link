@@ -1,0 +1,31 @@
+{
+  "name": "windows-store-link",
+  "version": "0.0.0",
+  "description": "Custruct links to the Windows Store for applications.",
+  "license": "MIT",
+  "repository": "xipasduarte/windows-store-link",
+  "author": {
+    "name": "Pedro Duarte",
+    "email": "xipasduarte@gmail.com",
+    "url": "github.com/xipasduarte"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "test npm"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    ""
+  ],
+  "dependencies": {
+    "is-empty": "0.0.1",
+    "trim": "0.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  }
+}
