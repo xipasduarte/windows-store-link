@@ -11,7 +11,7 @@ $ npm install --save windows-store-link
 ## Usage
 
 ```js
-var googleStoreLink = require('google-store-link');
+var googleStoreLink = require('windows-store-link');
 
 googleStoreLink(id, lang);
 
