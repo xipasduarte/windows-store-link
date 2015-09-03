@@ -1,6 +1,6 @@
 {
   "name": "windows-store-link",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Custruct links to the Windows Store for applications.",
   "license": "MIT",
   "repository": "xipasduarte/windows-store-link",
